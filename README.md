@@ -1,0 +1,2 @@
+# Building-user-based-recommendation-model.
+The dataset provided contains movie reviews given by Amazon customers. Reviews were given between May 1996 and July 2014. Recommendation Model: Some of the movies hadn’t been watched and therefore, are not rated by the users. Netflix would like to take this as an opportunity and build a machine learning recommendation algorithm which provides the ratings for each of the users.
